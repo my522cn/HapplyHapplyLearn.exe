@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Lesson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Directory>英文字母</Directory>
+  <Questions>
+    <Question QuestionImg="" QuestionShow="Aa" QuestionRead="A" AnswerImg="" AnswerShow="A" AnswerRead="A" />
+    <Question QuestionImg="" QuestionShow="Bb" QuestionRead="B" AnswerImg="" AnswerShow="B" AnswerRead="B" />
+    <Question QuestionImg="" QuestionShow="Cc" QuestionRead="C" AnswerImg="" AnswerShow="C" AnswerRead="C" />
+    <Question QuestionImg="" QuestionShow="Dd" QuestionRead="D" AnswerImg="" AnswerShow="D" AnswerRead="D" />
+    <Question QuestionImg="" QuestionShow="Ee" QuestionRead="E" AnswerImg="" AnswerShow="E" AnswerRead="E" />
+    <Question QuestionImg="" QuestionShow="Ff" QuestionRead="F" AnswerImg="" AnswerShow="F" AnswerRead="F" />
+    <Question QuestionImg="" QuestionShow="Gg" QuestionRead="G" AnswerImg="" AnswerShow="G" AnswerRead="G" />
+    <Question QuestionImg="" QuestionShow="Hh" QuestionRead="H" AnswerImg="" AnswerShow="H" AnswerRead="H" />
+    <Question QuestionImg="" QuestionShow="Ii" QuestionRead="I" AnswerImg="" AnswerShow="I" AnswerRead="I" />
+    <Question QuestionImg="" QuestionShow="Jj" QuestionRead="J" AnswerImg="" AnswerShow="J" AnswerRead="J" />
+    <Question QuestionImg="" QuestionShow="Kk" QuestionRead="K" AnswerImg="" AnswerShow="K" AnswerRead="K" />
+    <Question QuestionImg="" QuestionShow="Ll" QuestionRead="L" AnswerImg="" AnswerShow="L" AnswerRead="L" />
+    <Question QuestionImg="" QuestionShow="Mm" QuestionRead="M" AnswerImg="" AnswerShow="M" AnswerRead="M" />
+    <Question QuestionImg="" QuestionShow="Nn" QuestionRead="N" AnswerImg="" AnswerShow="N" AnswerRead="N" />
+    <Question QuestionImg="" QuestionShow="Oo" QuestionRead="O" AnswerImg="" AnswerShow="O" AnswerRead="O" />
+    <Question QuestionImg="" QuestionShow="Pp" QuestionRead="P" AnswerImg="" AnswerShow="P" AnswerRead="P" />
+    <Question QuestionImg="" QuestionShow="Qq" QuestionRead="Q" AnswerImg="" AnswerShow="Q" AnswerRead="Q" />
+    <Question QuestionImg="" QuestionShow="Rr" QuestionRead="R" AnswerImg="" AnswerShow="R" AnswerRead="R" />
+    <Question QuestionImg="" QuestionShow="Ss" QuestionRead="S" AnswerImg="" AnswerShow="S" AnswerRead="S" />
+    <Question QuestionImg="" QuestionShow="Tt" QuestionRead="T" AnswerImg="" AnswerShow="T" AnswerRead="T" />
+    <Question QuestionImg="" QuestionShow="Uu" QuestionRead="U" AnswerImg="" AnswerShow="U" AnswerRead="U" />
+    <Question QuestionImg="" QuestionShow="Vv" QuestionRead="V" AnswerImg="" AnswerShow="V" AnswerRead="V" />
+    <Question QuestionImg="" QuestionShow="Ww" QuestionRead="W" AnswerImg="" AnswerShow="W" AnswerRead="W" />
+    <Question QuestionImg="" QuestionShow="Xx" QuestionRead="X" AnswerImg="" AnswerShow="X" AnswerRead="X" />
+    <Question QuestionImg="" QuestionShow="Yy" QuestionRead="Y" AnswerImg="" AnswerShow="Y" AnswerRead="Y" />
+    <Question QuestionImg="" QuestionShow="Zz" QuestionRead="Z" AnswerImg="" AnswerShow="Z" AnswerRead="Z" />
+  </Questions>
+</Lesson>
